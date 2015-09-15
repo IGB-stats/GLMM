@@ -1,6 +1,5 @@
-#advanced statistics course
-
-Generalized linear mixed-effects model
+advanced statistics course
+##Generalized linear mixed-effects model
 
 Instructors: Kate Laskowski, Marie Fujitaini, David Bierbach, Shin Nakayama
 
