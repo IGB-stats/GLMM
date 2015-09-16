@@ -1,0 +1,3 @@
+"absent"	"present"	"sex"
+22	13	"female"
+15	13	"male"
