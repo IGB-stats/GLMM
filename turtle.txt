@@ -1,0 +1,4 @@
+"female"	"male"	"temperature"
+14	8	"high"
+22	3	"low"
+16	14	"med"
